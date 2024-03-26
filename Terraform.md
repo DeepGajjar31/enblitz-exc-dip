@@ -1,6 +1,4 @@
-# Create AWS-Ec2
-
-using main.tf
+# Create AWS-Ec2 using main.tf
 
 "provider "aws" {
   region = "ap-south-1"
