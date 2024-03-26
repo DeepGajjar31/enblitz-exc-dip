@@ -1,2 +1,2 @@
 # enblitz-exc-dip
-This is exercise Repo
+This is exercise repo
